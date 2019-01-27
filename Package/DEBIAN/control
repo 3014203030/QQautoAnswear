@@ -1,0 +1,17 @@
+Package: com.jasnding.tju.QQAutoAnswear
+Name: QQAutoAnswear
+Version: 1.0-1
+Description: QQ语音和QQ视频自动接听，闲置越狱设备秒变云摄像头
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: 是小勋勋啊
+dev: 
+Homepage: tju_dingjianxun@qq.com
+Depiction: QQ语音和QQ视频自动接听，闲置越狱设备秒变云摄像头
+Maintainer: 
+Icon:
+
